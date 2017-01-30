@@ -1,0 +1,72 @@
+[
+    {
+        "unit": "Nursing Unit<br>Main Campus",
+        "url":"nursing.php"
+        
+    },
+    {
+        
+        "unit": "Nursing Unit<br>Kongo",
+        "url":"nursing.php"
+        
+    },
+    {
+        
+        "unit": "Pharmacy Unit",
+        "url":"pharmacy.php"
+        
+    },
+    {
+        
+        "unit": "Prevention &amp; Sanitation Unit",
+        "url":"prevention.php"
+        
+    },
+    {
+        "unit": "Account Unit",
+        "url":"account.php"
+        
+    },
+    {
+        "unit": "Medical Record Unit",
+        "url":"medical.php"
+        
+    },
+    {
+        
+        "unit": "Afforestation Unit",
+        "url":"afforestation.php"
+        
+    },
+    {
+        "unit": "Laboratory Unit",
+        "url":"laboratory.php"
+        
+    },
+        
+    {
+        
+        "unit": "Dental Unit",
+        "url":"dental.php"
+        
+    },
+    {
+        
+        "unit": "Forest Guard",
+        "url":"forest.php"
+        
+    },
+    {
+        
+        "unit": "NHIS",
+        "url":"nhis.php"
+        
+    },
+    {
+        
+        "unit": "Parks & Garden",
+        "url":"parks.php"
+        
+    }
+]
+
